@@ -1,5 +1,4 @@
 # Flood_it
-programmation en C du jeu Flood_it selon différentes méthodes.
 
 Ce projet consiste à étudier des stratégies pour gagner au jeu d’inondation de
 grilles, appelé Flood-It . Le fonctionnement du jeu est simple, il y a NxN cases dans
@@ -13,3 +12,4 @@ totalement la grille avec une seule couleur.
 Pour exécuter le code :
 
 ![floodit1](https://user-images.githubusercontent.com/43862103/157902003-4d99fdf6-68ca-41d4-b05c-c5a8d5d4c4fe.png)
+
